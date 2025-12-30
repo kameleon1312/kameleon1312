@@ -63,18 +63,6 @@ Designed around **flow**, not checklists.
 
 ---
 
-### **GitHub Insights**
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=kameleon1312&show_icons=true&hide_border=true&theme=transparent&text_color=ffffff&icon_color=37D67A&title_color=4D9FFF" height="165"/>
-&nbsp;
-<img src="https://streak-stats.demolab.com?user=kameleon1312&theme=github-dark&hide_border=true&background=00000000&ring=4D9FFF&fire=4D9FFF&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=37D67A&sideLabels=ffffff" height="165"/>
-
-</div>
-
----
-
 ### **Current Focus**
 - High-detail micro-UX motion patterns
 - Refined visual pacing & interaction rhythm
@@ -87,7 +75,7 @@ Designed around **flow**, not checklists.
 <div align="center">
 
 [![Live Demo](https://img.shields.io/badge/Taskiner%20Live-37D67A?style=for-the-badge&logo=vercel&logoColor=white)](https://taskiner.vercel.app)
-[![Email](https://img.shields.io/badge/Email-4D9FFF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kontakt.szymonp@gmail.com)
+[![Email](https://img.shields.io/badge/Email-4D9FFF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:szymon.pochopien01@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kameleon1312)
 
 </div>
