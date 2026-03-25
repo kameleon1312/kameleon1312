@@ -1,57 +1,100 @@
-<!-- ========================================================= -->
-<!--  Szymon Pochopień — Creative / Futuristic Frontend Engineer -->
-<!--  Motion. Design. Code. Experience.                          -->
-<!-- ========================================================= -->
-
 <div align="center">
 
-<!-- === FUTURISTIC HEADER === -->
-<img src="https://raw.githubusercontent.com/kameleon1312/assets/main/readme/header-grid-animated.gif" width="100%" height="140" alt="header visual" style="border-radius:8px;opacity:0.92;" />
 
-<h1 style="margin-top: -30px; font-weight:700; font-size:42px; color:#FFFFFF;">
-  Szymon Pochopień
-</h1>
+<h2>Szymon Pochopień</h2>
+<sub>Frontend Engineer &mdash; Motion &amp; Interface Systems</sub>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=20&duration=3200&pause=1200&color=37D67A&center=true&vCenter=true&width=620&lines=Creative+Frontend+Developer;Motion-first+UI+Engineer;Design+%2B+Code+with+Precision" />
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3000&pause=1500&color=B388FF&center=true&vCenter=true&width=560&lines=React+%C2%B7+TypeScript+%C2%B7+Framer+Motion+%C2%B7+PWA;PWA%2C+e-commerce%2C+landing+pages%2C+platforms;Motion+is+not+decoration+%E2%80%94+it%27s+structure." alt="Typing SVG" />
+
+<br/>
+
+[![Taskiner](https://img.shields.io/badge/Taskiner-Live-B388FF?style=flat-square&logo=vercel&logoColor=0D1117)](https://taskiner.vercel.app)&nbsp;
+[![Email](https://img.shields.io/badge/Email-161B22?style=flat-square&logo=gmail&logoColor=B388FF)](mailto:szymon.pochopien01@gmail.com)&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-161B22?style=flat-square&logo=github&logoColor=B388FF)](https://github.com/kameleon1312)
 
 </div>
 
 ---
 
-### **Who I Am**
-
-Frontend engineer focused on **motion logic, UI clarity, and interface feeling**.  
-I build experiences where **flow is the product**.
-
-- React / Vite / TypeScript
-- Micro-interactions & motion systems (Framer Motion)
-- PWA engineering (offline, install UX, transitions)
-- Visual choreography and layout timing
-
-> Motion is not decoration — it's structure.
+Frontend engineer building products where motion is language, not decoration. From PWA task managers to e-commerce platforms and auth-backed web apps — I design systems that feel as good as they perform.
 
 ---
 
-### **Tech Stack**
+### Projects
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,sass,vite,git,github,vercel,figma,shopify&theme=light&perline=6" />
+
+<img src="https://raw.githubusercontent.com/kameleon1312/Taskiner/main/public/icons/icon-512x512-v2.png" width="72" alt="Taskiner" />
+
+**Taskiner** &mdash; Motion-first productivity PWA
+
+Offline, installable, animated. Task management built around flow, not friction.
+
+<br/>
+
+[![Open App](https://img.shields.io/badge/Open%20App-B388FF?style=flat-square&logo=vercel&logoColor=0D1117)](https://taskiner.vercel.app)&nbsp;
+[![Source](https://img.shields.io/badge/Source-161B22?style=flat-square&logo=github&logoColor=B388FF)](https://github.com/kameleon1312/Taskiner)
+
+<br/>
+
+<img src="https://img.shields.io/badge/React-161B22?style=flat-square&logo=react&logoColor=61DAFB" />&nbsp;<img src="https://img.shields.io/badge/Framer%20Motion-161B22?style=flat-square&logo=framer&logoColor=B388FF" />&nbsp;<img src="https://img.shields.io/badge/PWA-161B22?style=flat-square&logo=pwa&logoColor=B388FF" />&nbsp;<img src="https://img.shields.io/badge/Vite-161B22?style=flat-square&logo=vite&logoColor=646CFF" />&nbsp;<img src="https://img.shields.io/badge/Sass-161B22?style=flat-square&logo=sass&logoColor=CC6699" />
+
+</div>
+
+<br/>
+
+<table>
+<tr>
+<td align="center" width="33%">
+<br/>
+<strong>BarberCase</strong><br/>
+<sub>Editorial barbershop landing page</sub>
+<br/><br/>
+<img src="https://img.shields.io/badge/TypeScript-161B22?style=flat-square&logo=typescript&logoColor=B388FF" />&nbsp;<img src="https://img.shields.io/badge/React-161B22?style=flat-square&logo=react&logoColor=61DAFB" />&nbsp;<img src="https://img.shields.io/badge/Vite-161B22?style=flat-square&logo=vite&logoColor=646CFF" />&nbsp;<img src="https://img.shields.io/badge/Sass-161B22?style=flat-square&logo=sass&logoColor=CC6699" />
+<br/><br/>
+</td>
+<td align="center" width="33%">
+<br/>
+<strong>Fancyshop</strong><br/>
+<sub>E-commerce with cart &amp; routing</sub>
+<br/><br/>
+<img src="https://img.shields.io/badge/React-161B22?style=flat-square&logo=react&logoColor=61DAFB" />&nbsp;<img src="https://img.shields.io/badge/React%20Router-161B22?style=flat-square&logo=reactrouter&logoColor=CA4245" />&nbsp;<img src="https://img.shields.io/badge/Vite-161B22?style=flat-square&logo=vite&logoColor=646CFF" />&nbsp;<img src="https://img.shields.io/badge/Sass-161B22?style=flat-square&logo=sass&logoColor=CC6699" />
+<br/><br/>
+</td>
+<td align="center" width="33%">
+<br/>
+<strong>Oddam Rzeczy</strong><br/>
+<sub>Donation platform with Supabase auth</sub>
+<br/><br/>
+<img src="https://img.shields.io/badge/React-161B22?style=flat-square&logo=react&logoColor=61DAFB" />&nbsp;<img src="https://img.shields.io/badge/Supabase-161B22?style=flat-square&logo=supabase&logoColor=3ECF8E" />&nbsp;<img src="https://img.shields.io/badge/React%20Router-161B22?style=flat-square&logo=reactrouter&logoColor=CA4245" />&nbsp;<img src="https://img.shields.io/badge/Sass-161B22?style=flat-square&logo=sass&logoColor=CC6699" />
+<br/><br/>
+</td>
+</tr>
+</table>
+
+---
+
+### Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=react,ts,js,vite,sass,figma,vercel,git,supabase&theme=dark&perline=9" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/React-161B22?style=flat-square&logo=react&logoColor=61DAFB" />&nbsp;<img src="https://img.shields.io/badge/TypeScript-161B22?style=flat-square&logo=typescript&logoColor=B388FF" />&nbsp;<img src="https://img.shields.io/badge/JavaScript-161B22?style=flat-square&logo=javascript&logoColor=F7DF1E" />&nbsp;<img src="https://img.shields.io/badge/Vite-161B22?style=flat-square&logo=vite&logoColor=646CFF" />&nbsp;<img src="https://img.shields.io/badge/Framer%20Motion-161B22?style=flat-square&logo=framer&logoColor=B388FF" />&nbsp;<img src="https://img.shields.io/badge/Sass-161B22?style=flat-square&logo=sass&logoColor=CC6699" />&nbsp;<img src="https://img.shields.io/badge/Supabase-161B22?style=flat-square&logo=supabase&logoColor=3ECF8E" />&nbsp;<img src="https://img.shields.io/badge/Figma-161B22?style=flat-square&logo=figma&logoColor=F24E1E" />&nbsp;<img src="https://img.shields.io/badge/Vercel-161B22?style=flat-square&logo=vercel&logoColor=ffffff" />&nbsp;<img src="https://img.shields.io/badge/Git-161B22?style=flat-square&logo=git&logoColor=F05032" />
+
 </div>
 
 ---
 
-### **Featured Project**
 
-#### **Taskiner** — Motion-first Productivity System  
-Designed around **flow**, not checklists.
-
-<div align="center">
-  <a href="https://taskiner.vercel.app" target="_blank">
+</div>
     <img src="https://github.com/kameleon1312/taskify/raw/main/public/preview.gif" width="720" alt="Taskiner preview" />
   </a>
 </div>
-
----
 
 ### **Design Philosophy**
 
@@ -74,9 +117,9 @@ Designed around **flow**, not checklists.
 
 <div align="center">
 
-[![Live Demo](https://img.shields.io/badge/Taskiner%20Live-37D67A?style=for-the-badge&logo=vercel&logoColor=white)](https://taskiner.vercel.app)
-[![Email](https://img.shields.io/badge/Email-4D9FFF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:szymon.pochopien01@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kameleon1312)
+[![Gmail](https://img.shields.io/badge/Gmail-161B22?style=flat-square&logo=gmail&logoColor=EA4335)](mailto:szymon.pochopien01@gmail.com)&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-161B22?style=flat-square&logo=github&logoColor=ffffff)](https://github.com/kameleon1312)&nbsp;
+[![Taskiner](https://img.shields.io/badge/Taskiner-B388FF?style=flat-square&logo=vercel&logoColor=0D1117)](https://taskiner.vercel.app)
 
 </div>
 
@@ -84,7 +127,5 @@ Designed around **flow**, not checklists.
 
 <div align="center">
 
-<!-- === FUTURISTIC FOOTER === -->
-<img src="https://raw.githubusercontent.com/kameleon1312/assets/main/readme/footer-scanlines.gif" width="100%" height="90" alt="footer visual" style="opacity:0.9;border-radius:6px;" />
 
 </div>
