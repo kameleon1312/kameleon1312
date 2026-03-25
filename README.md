@@ -1,12 +1,11 @@
 <div align="center">
 
 
-<h2>Szymon Pochopień</h2>
-<sub>Frontend Engineer &mdash; Motion &amp; Interface Systems</sub>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=2800&pause=1200&color=B388FF&center=true&vCenter=true&width=700&lines=Szymon+Pochopien;Frontend+Experience+Engineer;Motion+%2B+UI+Precision" alt="Typing Name" />
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3000&pause=1500&color=B388FF&center=true&vCenter=true&width=560&lines=React+%C2%B7+TypeScript+%C2%B7+Framer+Motion+%C2%B7+PWA;PWA%2C+e-commerce%2C+landing+pages%2C+platforms;Motion+is+not+decoration+%E2%80%94+it%27s+structure." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3000&pause=10000&color=B388FF&center=true&vCenter=true&width=560&lines=React+%C2%B7+TypeScript+%C2%B7+Framer+Motion+%C2%B7+PWA;PWA%2C+e-commerce%2C+landing+pages%2C+platforms;Motion+is+not+decoration+%E2%80%94+it%27s+structure." alt="Typing SVG" />
 
 <br/>
 
