@@ -25,7 +25,7 @@ Frontend engineer building products where motion is language, not decoration. Fr
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/kameleon1312/Taskiner/main/public/icons/icon-512x512-v2.png" width="72" alt="Taskiner" />
+<img src="https://raw.githubusercontent.com/kameleon1312/Taskiner/main/public/icons/icon-512x512.png" width="72" alt="Taskiner" />
 
 **Taskiner** &mdash; Motion-first productivity PWA
 
