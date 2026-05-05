@@ -1,7 +1,7 @@
 <div align="center">
 
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=2800&pause=1200&color=B388FF&center=true&vCenter=true&width=700&lines=Szymon+Pochopien;Frontend+Experience+Engineer;Motion+%2B+UI+Precision" alt="Typing Name" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=2800&pause=1200&color=B388FF&center=true&vCenter=true&width=700&lines=Szymon+Pochopien;Digital+Experience+Engineer;Motion+%2B+UI+Precision" alt="Typing Name" />
 
 <br/><br/>
 
@@ -17,7 +17,7 @@
 
 ---
 
-Frontend engineer building products where motion is language, not decoration. From PWA task managers to e-commerce platforms and auth-backed web apps — I design systems that feel as good as they perform.
+Digital engineer building products where motion is language, not decoration. From PWA task managers to e-commerce platforms and auth-backed web apps — I design systems that feel as good as they perform.
 
 ---
 
